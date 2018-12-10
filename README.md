@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# MAGD150-Assignment
+## Read Me File
 
-You can use the [editor on GitHub](https://github.com/Jperkins1425/MAGD150-Assignment/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+This repository consist of example code that I completed while here at UW-W
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Example One
 
-### Markdown
+[**Lab 6:Functions**](https://github.com/Jperkins1425/MAGD150-Assignment/tree/gh-pages/f18_magd150_lab06_Perkins)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Scared Face](https://github.com/Jperkins1425/MAGD150-Assignment/blob/gh-pages/f18_magd150_lab06_Perkins/Scared_Face.pde)
 
-```markdown
-Syntax highlighted code block
+  This is the code for all the functions made to create the bouncing ball.
+  
+[Bouncing Ball](https://github.com/Jperkins1425/MAGD150-Assignment/blob/gh-pages/f18_magd150_lab06_Perkins/f18_magd150_lab06_Perkins.pde)
 
-# Header 1
-## Header 2
-### Header 3
+  This code brings all the functions created together and makes the code easier to understand.
+  
+### Example Two
 
-- Bulleted
-- List
+[**Lab 3:Math**](https://github.com/Jperkins1425/MAGD150-Assignment/blob/gh-pages/f18_magd150_lab03_Perkins.pde)
 
-1. Numbered
-2. List
+  Using math function and operations in code to make an infinite amount of bubbles.
 
-**Bold** and _Italic_ and `Code` text
+### Example Three
 
-[Link](url) and ![Image](src)
-```
+[**Lab 7:Transformations**](https://github.com/Jperkins1425/MAGD150-Assignment/blob/gh-pages/f18_magd150_lab07_Perkins.pde)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  Learning how to implement Translate, Rotate, and Scale into my code. I also create use arrays to create different objects in my file. 
+  
+### Example Four
 
-### Jekyll Themes
+[**Lab 4:Dynamism**](https://github.com/Jperkins1425/MAGD150-Assignment/blob/gh-pages/f18magd150lab04_Perkins_pde.pde)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jperkins1425/MAGD150-Assignment/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  Using MousePressed, void MousePressed, KeyPressed, void keyPressed, and Loops to create a pizza with your choice of pepperoni or sausage.
+  
+### Example Five
 
-### Support or Contact
+[**Lab 5:Intersections**](https://github.com/Jperkins1425/MAGD150-Assignment/blob/gh-pages/f18magd150lab05_Perkins.pde)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  Creating buttons in code that the user can interact with. Each button changing the outcome of the file. 
